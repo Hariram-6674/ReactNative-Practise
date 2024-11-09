@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "React Native",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "java.compile.nullAnalysis.mode": "automatic"
+  }
+}
